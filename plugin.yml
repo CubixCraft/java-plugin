@@ -1,0 +1,3 @@
+name: Plugin Boilerplate
+main com.github.cubixcraft.plugin.plugin
+version 0
