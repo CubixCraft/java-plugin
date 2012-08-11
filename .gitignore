@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
