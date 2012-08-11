@@ -7,6 +7,6 @@ public class Plugin extends JavaPlugin {
 		getLogger().info("Your plugin has been enabled.");
 	}
 	public void onDisable() {
-		getLogger().info("Your plugin has been enabled.");
+		getLogger().info("Your plugin has been disabled.");
 	}
 }
